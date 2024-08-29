@@ -1730,7 +1730,7 @@ export const comparisons = {
       'Убедитесь что нажали на \'Create and Continue\' чтобы получить как минимум \'Vertex AI User\'. Наконец, создайте JSON-ключ чтобы импортировать его сюда.',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Hey Bruno ! How can I help you today?',
     translated: 'Чем я могу помочь вам сегодня?',
   },
   com_nav_auto_scroll: {

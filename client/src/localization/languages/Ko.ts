@@ -2560,7 +2560,7 @@ export const comparisons = {
     translated: '어시스턴트 선택하기',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Hey Bruno ! How can I help you today?',
     translated: '오늘 무엇을 도와드릴까요?',
   },
   com_nav_auto_scroll: {

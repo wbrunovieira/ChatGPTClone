@@ -586,7 +586,7 @@ export default {
   com_nav_font_size_lg: 'Large',
   com_nav_font_size_xl: 'Extra Large',
   com_nav_welcome_assistant: 'Please Select an Assistant',
-  com_nav_welcome_message: 'How can I help you today?',
+  com_nav_welcome_message: 'Hey Bruno ! How can I help you today?',
   com_nav_auto_scroll: 'Auto-Scroll to latest message on chat open',
   com_nav_hide_panel: 'Hide right-most side panel',
   com_nav_modular_chat: 'Enable switching Endpoints mid-conversation',

@@ -131,4 +131,4 @@ async function main(systemPrompt: string, prompt: string) {
   }
 }
 
-main('Hello, how can I help you today?', 'What is the meaning of life?');
+main('Hello, Hey Bruno ! How can I help you today?', 'What is the meaning of life?');

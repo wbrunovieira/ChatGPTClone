@@ -2563,7 +2563,7 @@ export const comparisons = {
     translated: 'يرجى اختيار مساعد',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Hey Bruno ! How can I help you today?',
     translated: 'كيف يمكنني مساعدتك اليوم؟',
   },
   com_nav_hide_panel: {

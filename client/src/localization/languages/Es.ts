@@ -2110,7 +2110,7 @@ export const comparisons = {
     translated: 'Por favor, selecciona un asistente',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Hey Bruno ! How can I help you today?',
     translated: '¿En qué puedo ayudarte hoy?',
   },
   com_nav_auto_scroll: {

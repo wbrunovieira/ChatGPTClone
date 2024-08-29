@@ -1689,7 +1689,7 @@ export const comparisons = {
       'הקפד ללחוץ על \'צור והמשך\' כדי לתת לפחות את התפקיד \'Vertex AI User\'. לבסוף, צור מפתח JSON לייבא לכאן.',
   },
   com_nav_welcome_message: {
-    english: 'How can I help you today?',
+    english: 'Hey Bruno ! How can I help you today?',
     translated: 'איך אני יכול לעזור לך היום?',
   },
   com_nav_auto_scroll: {
